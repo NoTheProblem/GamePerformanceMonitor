@@ -1,0 +1,3 @@
+Leauge of Legends,League of Legends.exe
+CS:GO,csgo.exe
+GTA: San Andreas,gta-sa.exe
